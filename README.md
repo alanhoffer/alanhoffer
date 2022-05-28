@@ -1,6 +1,13 @@
+<p align="center">
+<img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="20%"/>
+  
+<a href="https://www.linkedin.com/in/alan-hoffer-40ba31221/"  ><img src="https://i.imgur.com/c9ZaNet.png" width="25" heigth="25"/></a>
+<a href="https://github.com/alanhoffer"  ><img src="https://i.imgur.com/ShKYZ1S.png" width="25" heigth="25" /></a>
+</p>
+
+
+
 [<img src="https://i.imgur.com/beSYFkF.png" width="100%"/>](https://github.com/alanhoffer)
-<a href="https://www.linkedin.com/in/alan-hoffer-40ba31221/"  ><img src="https://i.imgur.com/c9ZaNet.png" width="50" heigth="51"/></a>
-<a href="https://github.com/alanhoffer"  ><img src="https://i.imgur.com/ShKYZ1S.png" width="50" heigth="51" /></a>
 
 
 <p align="center">
