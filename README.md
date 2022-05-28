@@ -2,7 +2,7 @@
 
 [<p align="center">
   [<img src="https://i.imgur.com/c9ZaNet.png" width="45" heigth="47"/>](https://github.com/) 
-  [<img src="https://i.imgur.com/f8cfcgt.png" width="80" heigth="51"/>](https://github.com/)
+  [<img src="https://cutewallpaper.org/24/instagram-logo-black-and-white-png/1737315578.jpg" width="50" heigth="51"/>](https://github.com/)
   [<img src="https://i.imgur.com/ShKYZ1S.png" width="50" heigth="51" />](https://github.com/)
 </p>]
 
