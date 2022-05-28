@@ -1,9 +1,10 @@
 [<img src="https://i.imgur.com/beSYFkF.png" width="100%"/>](https://github.com/alanhoffer)
-
+ <br>
 
 <h2 align="left">
   MY CONTACT DATA
  </h2>
+ <br>
 
 <h2 align="left">
   MY TECNOLOGY STACK
@@ -23,14 +24,14 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
+ <br>
  
 
 <h2 align="left">
   MY GITHUB STATS
  </h2>
-
+ <br>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhoffer&show_icons=true&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhoffer&layout=compact&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/alanhoffer/github-readme-stats)
