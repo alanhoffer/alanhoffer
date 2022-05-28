@@ -10,7 +10,8 @@
 
 <p align="center">
   MY TECNOLOGY INFO
-   <div>
+ </p>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,7 +25,6 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- </p>
 
  
  <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
@@ -35,7 +35,7 @@
  
 <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhoffer&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhoffer&show_icons=true&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
