@@ -37,5 +37,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhoffer&show_icons=true&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhoffer&layout=compact&bg_color=1A1B31&title_color=22D4FA)](https://github.com/alanhoffer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhoffer&layout=compact&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/alanhoffer/github-readme-stats)
 
