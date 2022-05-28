@@ -3,7 +3,7 @@
 
 [<img src="https://i.imgur.com/c9ZaNet.png" width="45" heigth="47"/>](https://github.com/) 
 [<img src="https://i.imgur.com/f8cfcgt.png" width="80" heigth="66"/>](https://github.com/)
-[<img src="ps://i.imgur.com/ShKYZ1S.png" width="50" heigth="51" />](https://github.com/)
+[<img src="https://i.imgur.com/ShKYZ1S.png" width="50" heigth="51" />](https://github.com/)
 
 
 
