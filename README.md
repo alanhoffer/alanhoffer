@@ -5,6 +5,14 @@
   MY CONTACT DATA
  </h2>
  <br>
+ <div>
+  <h2> Contact me in any Social Media <h2>
+  <h3>LinkedIn: https://www.linkedin.com/in/alan-hoffer/</h3>
+  <h3>Github: https://github.com/alanhoffer/</h3>
+  <h3>Instagram: https://www.instagram.com/alannhoffer/</h3>
+  <h3>Email: mailto:alanhoffer@gmail.com</h3>
+   
+ <div>
 
 <h2 align="left">
   MY TECNOLOGY STACK
