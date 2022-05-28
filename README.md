@@ -10,7 +10,7 @@
   <h3>LinkedIn: https://www.linkedin.com/in/alan-hoffer/</h3>
   <h3>Github: https://github.com/alanhoffer/</h3>
   <h3>Instagram: https://www.instagram.com/alannhoffer/</h3>
-  <h3>Email: mailto:alanhoffer2012@gmail.com</h3>
+  <h3>Email: alanhoffer2012@gmail.com</h3>
  <br>
    
  <div>
