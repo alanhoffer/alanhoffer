@@ -9,7 +9,6 @@
 <p align="center">
   MY TECNOLOGY INFO
  </p>
- <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -26,14 +25,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+ <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
  
 
 <p align="center">
   MY GITHUB STATS
  </p>
-<img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhoffer&show_icons=true&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhoffer&layout=compact&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/alanhoffer/github-readme-stats)
+
+
 
