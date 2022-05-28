@@ -29,9 +29,9 @@
  <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
  
 
-<p align="center">
+<h2 align="left">
   MY GITHUB STATS
- </p>
+ </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanhoffer&show_icons=true&bg_color=1A1B31&title_color=22D4FA&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
