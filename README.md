@@ -1,14 +1,13 @@
 [<img src="https://i.imgur.com/beSYFkF.png" width="100%"/>](https://github.com/alanhoffer)
 
 
-<p align="center">
-  MY CONTACT
- </p>
- <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
+<h2 align="left">
+  MY CONTACT DATA
+ </h2>
 
-<p align="center">
-  MY TECNOLOGY INFO
- </p>
+<h2 align="left">
+  MY TECNOLOGY STACK
+ </h2>
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -26,7 +25,6 @@
 </div>
 
 
- <img src="https://i.imgur.com/oKZiEoI.png" width="100%"/>
  
 
 <h2 align="left">
