@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/>](https://github.com/)
+![image](https://user-images.githubusercontent.com/6251624/170817679-388f981a-f339-471a-9d31-e133495b1930.png)
 
 
 
