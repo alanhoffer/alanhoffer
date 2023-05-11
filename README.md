@@ -23,16 +23,31 @@
  
 
 <h2 align="left">
+  MY PROJECTS
+ </h2>
+ <br>
+ <div>
+  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="Lemon Lane" alt="Lemon Lane" width="40" height="40"/>&nbsp;</a>
+  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="Lemon Lane" alt="Lemon Lane" width="40" height="40"/>&nbsp;</a>
+  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="Lemon Lane" alt="Lemon Lane" width="40" height="40"/>&nbsp;</a>
+  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="Lemon Lane" alt="Lemon Lane" width="40" height="40"/>&nbsp;</a>
+  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="Lemon Lane" alt="Lemon Lane" width="40" height="40"/>&nbsp;</a>
+
+ <br>
+   
+ <div>
+  
+  
+  <h2 align="left">
   MY CONTACT DATA
  </h2>
  <br>
  <div>
-  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
-  <h3> Contact me in any Social Media <h3>
-  <h3>LinkedIn: https://www.linkedin.com/in/alan-hoffer/</h3>
-  <h3>Github: https://github.com/alanhoffer/</h3>
-  <h3>Instagram: https://www.instagram.com/alannhoffer/</h3>
-  <h3>Email: alanhoffer2012@gmail.com</h3>
+  <p> Contact me in any Social Media <p>
+  <p>LinkedIn: https://www.linkedin.com/in/alan-hoffer/</p>
+  <p>Github: https://github.com/alanhoffer/</p>
+  <p>Instagram: https://www.instagram.com/alannhoffer/</p>
+  <p>Email: alanhoffer2012@gmail.com</p>
  <br>
    
  <div>
