@@ -27,7 +27,7 @@
  </h2>
  <br>
  <div>
-  <a href="google.com" ><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://lemon-lane.vercel.app/" ><img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
   <h3> Contact me in any Social Media <h3>
   <h3>LinkedIn: https://www.linkedin.com/in/alan-hoffer/</h3>
   <h3>Github: https://github.com/alanhoffer/</h3>
