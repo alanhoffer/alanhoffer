@@ -28,15 +28,21 @@
  <br>
  <div>
  <h3> Visualizacion rapida de algunos proyectos </h3>
-  <a href="https://lemon-lane.vercel.app/" >Tienda de ropa Online</a> 
+  <a href="https://lemon-lane.vercel.app/" > 
+   <img src="https://lemon-lane.vercel.app/assets/logo-d9cff3ea.svg" title="Lemon Lane" alt="Lemon Lane" width="40" height="40"/> 
+   Tienda de ropa Online</a> 
  <br>
-  <a href="https://todo-wine-five.vercel.app/" >To do list</a>
+  <a href="https://todo-wine-five.vercel.app/" >
+   <img src="https://w7.pngwing.com/pngs/609/552/png-transparent-todolist-planing-list-planlist-todo-icon-thumbnail.png" title="TodoList" alt="TodoList" width="40" height="40"/> 
+   To do list</a>
  <br>
-  <a href="https://apitool-app-vue.vercel.app/#/products" >Web Apicultura</a>
+  <a href="https://apitool-app-vue.vercel.app/#/company" >
+   <img src="https://apitool-app-vue.vercel.app/img/SolidLogo.654ca0c8.png" title="Beekeeping" alt="Beekeeping" width="40" height="40"/> 
+   Web Apicultura</a>
  <br>
-  <a href="https://github.com/alanhoffer/apitool-frontendweb" >Web Apicultura (Version vieja)</a>
- <br>
-  <a href="https://apitool-blog.vercel.app/" > Simple Blog </a>
+  <a href="https://apitool-blog.vercel.app/" >
+   <img src="https://apitool-app-vue.vercel.app/img/SolidLogo.654ca0c8.png" title="Beekeeping" alt="Beekeeping" width="40" height="40"/> 
+   Simple Blog </a>
 
  <br>
    
