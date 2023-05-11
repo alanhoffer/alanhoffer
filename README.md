@@ -27,6 +27,7 @@
  </h2>
  <br>
  <div>
+ <h3> Visualizacion rapida de algunos proyectos </h3>
   <a href="https://lemon-lane.vercel.app/" >Tienda de ropa Online</a> 
  <br>
   <a href="https://todo-wine-five.vercel.app/" >To do list</a>
