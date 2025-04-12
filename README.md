@@ -58,7 +58,6 @@
   <p>LinkedIn: https://www.linkedin.com/in/alan-hoffer/</p>
   <p>Github: https://github.com/alanhoffer/</p>
   <p>Instagram: https://www.instagram.com/alannhoffer/</p>
-  <p>Email: alanhoffer2012@gmail.com</p>
  <br>
    
  <div>
